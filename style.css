@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#main{
+    
+    background-color: #4f0197;
+    width: 100%;
+    height: 100vh;
+
+}
+
+#heading {
+    text-align: center;
+    padding-top: 5%;
+    font-size: 3vw;
+}
+
+#heading span{
+    color: #0017c5;
+}
+
+#main textarea{
+    margin-left: 25%;
+    height: 20vw;
+    width: 50%;
+    border-radius: 1vw;
+    margin-top: 1vw;
+    background-color: #2a2947;
+    color: white;
+    padding: 20px;
+}
+
+#row{
+    margin-left: 30vw;
+    margin-top: 1vw;
+}
+
+#row select{    
+    width: 25vw;
+    border-radius: 20px;
+    height: 3vw;
+    cursor: pointer;
+}
+
+#row button{
+    height: 3vw;
+    width: 7vw;
+    cursor: pointer;
+    background-color:blue;
+    border-radius: 20px;
+    font-size: 1.3vw;
+}
